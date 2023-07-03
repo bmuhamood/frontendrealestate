@@ -1,10 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/homeverse)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/homeverse?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/homeverse?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6HZ4nZmU_pE?style=social)](https://youtu.be/6HZ4nZmU_pE)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/bmuhamood/homeverse)
+  ![GitHub stars](https://img.shields.io/github/stars/bmuhamood/homeverse?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/bmuhamood/homeverse?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/bmuhamood?style=social)](https://twitter.com/intent/follow?screen_name=bmuhamood)
 
   <br />
   <br />
@@ -36,21 +35,15 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Homeverse** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/homeverse.git
-```
-
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/homeverse.git
+git clone https://github.com/bmuhamood/frontendrealestate.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/croixtecfirm).
 
 ### License
 
