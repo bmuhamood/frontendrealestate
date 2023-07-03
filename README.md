@@ -14,7 +14,7 @@
 
   Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://azure-verile-89.tiiny.site/"><strong>➥ Live Demo</strong></a>
+  <a href="https://salmon-tammara-17.tiiny.site/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
